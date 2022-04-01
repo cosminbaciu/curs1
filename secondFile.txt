@@ -1,2 +1,2 @@
 This is the first line of the secondFile.txt and make it longer
-This is the second line bla bkla
+This is the second line.txt bla bkla
